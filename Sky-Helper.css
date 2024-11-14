@@ -1427,7 +1427,13 @@
   background-position: 50% 50%;
   --radius: 42px;
 }
-
+.u-section-5 .u-image-3 {
+  min-height: 240px;
+  background-image: url("images/image.png");
+  background-size: contain; /
+  background-position: 50% 50%;
+  --radius: 42px;
+}
 .u-section-5 .u-container-layout-1 {
   box-shadow: 0px 2px 8px 0px rgba(128,128,128,1);
   padding: 30px;
